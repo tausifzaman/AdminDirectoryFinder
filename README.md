@@ -6,7 +6,15 @@ Admin Directory Finder is a tool designed to scan and identify directories under
 git clone https://github.com/tausifzaman/AdminDirectoryFinder.git && cd AdminDirectoryFinder && pip install -r requirements.txt && python3 main.py
 ```
 ### Install Line Individually 
-``` git clone https://github.com/tausifzaman/AdminDirectoryFinder.git ```
-``` cd AdminDirectoryFinder ```
-``` pip install -r requirements.txt ```
-``` python3 main.py ```
+```
+git clone https://github.com/tausifzaman/AdminDirectoryFinder.git 
+```
+``` 
+cd AdminDirectoryFinder
+```
+```
+pip install -r requirements.txt
+```
+```
+python3 main.py
+```
