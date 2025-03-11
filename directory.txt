@@ -45,7 +45,6 @@ adminuser.php
 productadd.php
 addadmin.php
 menu.php
-dashboard.php
 home.php
 add_admin.php
 addnews.php
@@ -66,7 +65,7 @@ addfile.php
 addarticle.php
 addfile.php
 upload.php
-addstq|.php
+addstql.php
 addshow.php
 addmember.php
 addinfo.php
@@ -149,7 +148,6 @@ adminuser.aspx
 productadd.aspx
 addadmin.aspx
 menu.aspx
-dashboard.aspx
 home.aspx
 add_admin.aspx
 addnews.aspx
@@ -170,7 +168,7 @@ addfile.aspx
 addarticle.aspx
 addfile.aspx
 upload.aspx
-addstq|.aspx
+addstql.aspx
 addshow.aspx
 addmember.aspx
 addinfo.aspx
