@@ -17,7 +17,8 @@ logo = """
   / ___ \ (_| | |_| | | |  |  _| | | | | | (_| |  __/ |
  /_/   \_\__,_|____/|_|_|  |_|   |_|_| |_|\__,_|\___|_| V.1.0
          Advanced Multi-URL Admin Directory Finder
-"""
+
+                 Instagram @_tausif_zaman"""
 
 console.print(Panel.fit(logo, style="bold cyan", title="[bold yellow]Tausif's Tool"))
 
