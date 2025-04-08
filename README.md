@@ -15,6 +15,7 @@ Admin Directory Finder is a tool designed to scan and identify directories under
   <div align=center>
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
   </div>
+  
  ## Menu
 ![AdminDirectoryFinder](https://raw.githubusercontent.com/tausifzaman/AdminDirectoryFinder/refs/heads/main/screenshot.jpg)
 
