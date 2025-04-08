@@ -2,7 +2,12 @@
 
 # AdminDirectoryFinder
  
+ <p>
+ <img src="https://img.shields.io/github/stars/tausifzaman/AdminDirectoryFinder?color=%23DF0067&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/tausifzaman/AdminDirectoryFinder?color=%239999FF&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/license/tausifzaman/AdminDirectoryFinder?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
  
+</p>
  <p>
 Admin Directory Finder is a tool designed to scan and identify directories under admin paths, such as admin/dashboard.php. It helps in security testing by detecting hidden or sensitive admin panels within a web application. Ideal for penetration testers and developers to ensure proper access control and security measures.</p></div>
  ## Language</br>
