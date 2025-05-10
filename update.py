@@ -42,7 +42,7 @@ LOGO = r"""
                      /' /\     \  \     ,v=.  ((
                    .^. / /\     "  }__ //===-  `
                   / / ' '  "-.,__ {---(==-
-                .^ '       :  T  ~"   ll       -instagram : @_tausif_zaman
+                .^ '       :  T  ~"   ll        instagram : @_tausif_zaman
                / .  .  . : | :!        \            github.com/tausifzaman
               (_/  /   | | j-"          ~^
                 ~-<_(_.^-~"
