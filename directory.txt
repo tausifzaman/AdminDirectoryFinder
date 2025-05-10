@@ -102,6 +102,10 @@ additem.php
 addstore.php
 Dashboard.php
 home.php
+travelclass.php
+developer.php
+bookings.php
+transactions.php
 
 dashboard.aspx
 index.aspx
@@ -205,6 +209,7 @@ addcity.aspx
 product_add.aspx
 additem.aspx
 addstore.aspx
+
 
 dashboard.asp
 index.asp
